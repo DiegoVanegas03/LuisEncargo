@@ -17,6 +17,9 @@ It uses the Starter Kit [Laravel Breeze](https://github.com/laravel/breeze) base
 - Run `composer install`
 - Run `php artisan key:generate`
 - Run `php artisan migrate --seed` (it has some seeded data for your testing)
+- Run `php artisan storage:link` (it has some seeded data for your testing)
+- Run `php artisan serve`
+- Run `npm run dev`
 - That's it: launch the main URL
 
 
